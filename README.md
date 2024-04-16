@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kacper</h1>
-<h3 align="center">I'm a beginner .NET developer who is looking forward to learn new things!</h3>
+<h3 align="center">I'm a beginner .NET developer who is willing to learn new things!</h3>
 
 <h3 align="left">Find me on LinkedIn:</h3>
 <p align="left">
